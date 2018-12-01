@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "boot-demo",
+                "projectName": "boot-demo",
+                "workingDirectory": "c:\\Users\\jiugeee\\Desktop\\spring boot demo\\boot-demo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "boot-demo",
+                "projectName": "boot-demo",
+                "workingDirectory": "c:\\Users\\jiugeee\\Desktop\\spring boot demo\\boot-demo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
